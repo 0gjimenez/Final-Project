@@ -1,0 +1,9 @@
+.head{
+    height: 50px;
+    width: 100%;
+    text-align: center;
+    background: black;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
+}
