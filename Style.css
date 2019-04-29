@@ -7,15 +7,12 @@
     font-family: Impact;
     font-size: 50px;
 }
-.bg-img {
-    background-image: https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwilq6q1tO7hAhWG1lkKHcz0DSoQjRx6BAgBEAU&url=https%3A%2F%2Fwww.brandcrowd.com%2Flogo-design%2Fdetails%2F145698&psig=AOvVaw1AhroWPfJWbOd2VYBQaFQK&ust=1556390420000084;
-  
-    min-height: 380px;
-  
+.img{
+    background-image: url("https://cdn.dribbble.com/users/1094580/screenshots/3644566/dribbble.gif");
+    min-height: 600px;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-  
     position: relative;
   }
   
