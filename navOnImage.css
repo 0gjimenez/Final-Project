@@ -6,10 +6,12 @@
     color: white;
     font-family: Impact;
     font-size: 50px;
+    padding: auto;
+    margin: 0;
 }
 .img{
     background-image: url("https://cdn.dribbble.com/users/1094580/screenshots/3644566/dribbble.gif");
-    min-height: 0px;
+    min-height: 600px;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -51,12 +53,5 @@
 
 
 
-.bag{
-  width: 500px;
-  height: 500px;
-  margin: 0 auto;
-  margin-left: 70%;
-  margin-right: 35%;
 
 
-}
