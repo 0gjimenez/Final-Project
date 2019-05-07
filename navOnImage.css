@@ -1,12 +1,12 @@
 .head{
-    height: 60px;
+    height: 80px;
     width: 100%;
     text-align: center;
     background: black;
     color: white;
     font-family: Impact;
     font-size: 50px;
-    padding: auto;
+    padding: 8px;
     margin: 0;
 }
 .img{
