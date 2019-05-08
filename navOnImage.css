@@ -1,17 +1,17 @@
 .head{
     height: 80px;
     width: 100%;
-    text-align: center;
-    background: black;
+    text-align: left;
+    background: rgba(20, 185, 207, 0.781);
     color: white;
     font-family: Impact;
     font-size: 50px;
     padding: 8px;
-    margin: 0;
+    margin-right: 200px;
 }
 .img{
     background-image: url("https://cdn.dribbble.com/users/1094580/screenshots/3644566/dribbble.gif");
-    min-height: 600px;
+    height: 800px;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
