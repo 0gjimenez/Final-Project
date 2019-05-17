@@ -18,6 +18,9 @@
     font-size: 50px;
     word-break: break-all;
   }
+  .subHeads{
+    font-family: Arial;
+  }
   
   .row {
     margin: 8px -16px;
@@ -33,6 +36,7 @@
   .column {
     float: left;
     width: 25%;
+    
   }
   
   /* Clear floats after rows */ 
@@ -47,7 +51,9 @@
     background-color: white;
     padding: 10px;
   }
-  
+  .btn {
+    background-color: #555;
+  }
   /* Responsive layout - makes a two column-layout instead of four columns */
   @media screen and (max-width: 900px) {
     .column {
@@ -61,3 +67,10 @@
       width: 100%;
     }
   }
+  @media only screen and (min-width: 600px){
+  }
+  @media only screen and (min-width: 992px){
+  }
+  @media only screen and (min-width: 1200px){
+  }
+  

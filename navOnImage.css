@@ -33,12 +33,13 @@
   .container {
     position: relative;
     width:60%;
+    marign: 0 auto;
   }
   
   /* The navbar */
   .topnav {
     overflow: hidden;
-    background-color: #333;
+    background-color: rgb(38, 142, 168);
   }
   
   /* Navbar links */
@@ -57,6 +58,13 @@
     background-color: #ddd;
     color: black;
   }
+  @media only screen and (min-width: 600px){
+  }
+  @media only screen and (min-width: 992px){
+  }
+  @media only screen and (min-width: 1200px){
+  }
+  
   
   
   

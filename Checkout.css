@@ -27,14 +27,13 @@
   padding: 0 16px;
 }
 
-.container {
+.container2 {
   background-color: #f2f2f2;
   padding: 5px 20px 15px 20px;
   border: 1px solid lightgrey;
   border-radius: 3px;
   margin: auto;
   font-family: Impact;
-
 }
 
 input[type=text] {
@@ -79,12 +78,11 @@ span.price {
 }
 
 /* Responsive layout - when the screen is less than 800px wide, make the two columns stack on top of each other instead of next to each other (and change the direction - make the "cart" column go on top) */
-@media screen (max-width:px768) {
-
+@media only screen and (max-width:px768) {
 }
-@media screen (max-width:px992) {
+@media only screen and (max-width:px992) {
   }
-@media screen (max-width:px1200) {
+@media only screen and (max-width:px1200) {
   
 
   .row {

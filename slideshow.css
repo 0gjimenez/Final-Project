@@ -107,6 +107,9 @@
   position: relative;
   width: 50%;
 }
+#button{
+  margin: 0 auto;
+}
 
 /* Style the button and place it in the middle of the container/image */
 .container .btn {
@@ -127,3 +130,10 @@
 .container .btn:hover {
   background-color: black;
 }
+@media only screen and (min-width: 600px){
+}
+@media only screen and (min-width: 992px){
+}
+@media only screen and (min-width: 1200px){
+}
+
