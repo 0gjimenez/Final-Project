@@ -1,17 +1,22 @@
 * {
     box-sizing: border-box;
+    
   }
   
   body {
     background-color: #f1f1f1;
     padding: 20px;
     font-family: Arial;
+    
   }
   
   /* Center website */
   .main {
-    max-width: 1000px;
+    max-width: 100%;
     margin: auto;
+  }
+  .mainead{
+    text-align: center;
   }
   
   h1 {
@@ -53,6 +58,7 @@
   }
   .btn {
     background-color: #555;
+    font-family: Impact;
   }
   /* Responsive layout - makes a two column-layout instead of four columns */
   @media screen and (max-width: 900px) {
